@@ -1,0 +1,6 @@
+name: GGNoRe
+internal_name: AutoGGs
+author: Eon
+description: |-
+  Automatically sends hello and GGs in duties. Allows querying from a list of possible messages for variance.
+repo_url: https://github.com/EonTAS/GGNoRe
